@@ -14,3 +14,11 @@ button {
     color: chartreuse;
     font-family: "Macondo", cursive;
 }
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    
+}
