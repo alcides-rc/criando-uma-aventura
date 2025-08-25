@@ -1,4 +1,16 @@
 body {
     background-color:grey;
     color: rgb(68, 229, 32);
+    front-family: "Macondo", cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0px;
+}
+
+button {
+    background-color: white;
+    color: chartreuse;
+    font-family: "Macondo", cursive;
 }
